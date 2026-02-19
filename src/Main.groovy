@@ -1,3 +1,6 @@
 static void main(String[] args) {
-    println "Hello world!"
+    println ("MARIA CAMILA TOVAR");
+    println ("CHIA")
+    println ("18")
+    println ("Gato, mango")
 }
